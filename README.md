@@ -79,7 +79,7 @@ The Geoportal Perkimtan project was built with the goal of delivering a responsi
 </p>
 
 <p style="color: grey;">
-  🔗 Link ke repository mobile:  <strong><a href="https://github.com/BintangGusti/geospasial/releases"><code>app-release.apk</code></a></strong>
+  🔗 Link ke repository mobile:  <strong><a href="https://github.com/BintangGusti/geospasial"><code>github-mobile</code></a></strong>
 </p>
 <p>
 
