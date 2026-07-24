@@ -79,7 +79,7 @@ The Geoportal Perkimtan project was built with the goal of delivering a responsi
 </p>
 
 <p style="color: grey;">
-  🔗 Link ke repository mobile: <code>Unknown Link</code> (akan diperbarui bila tersedia)
+  🔗 Link ke repository mobile: <strong><a href="https://github.com/BintangGusti/geospasial</a></strong>
 </p>
 <p>
 
