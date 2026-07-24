@@ -79,7 +79,7 @@ The Geoportal Perkimtan project was built with the goal of delivering a responsi
 </p>
 
 <p style="color: grey;">
-  🔗 Link ke repository mobile: <strong><a href="https://github.com/BintangGusti/geospasial</a></strong>
+  🔗 Link ke repository mobile: <code>Unknown Link</code> (akan diperbarui bila tersedia)
 </p>
 <p>
 
@@ -171,7 +171,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
-
-
-
-
