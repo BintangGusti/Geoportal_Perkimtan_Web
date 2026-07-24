@@ -85,7 +85,12 @@ The Geoportal Perkimtan project was built with the goal of delivering a responsi
 
   🛠️ Sebelum instalasi, pastikan Anda mengaktifkan opsi <strong>"Install unknown apps"</strong> atau <strong>"Sumber tidak dikenal"</strong> di perangkat Android Anda.
 </p>
-
+<li>
+<strong>Bintang Gusti - Mobile Frontend Developer</strong><br>
+Mengembangkan tampilan dan fitur frontend pada aplikasi mobile Geoportal Perkimtan,
+termasuk pembuatan halaman aplikasi, navigasi antar halaman, desain komponen UI,
+serta integrasi tampilan dengan data yang digunakan oleh sistem.
+</li>
 <hr>
 
 <p>
